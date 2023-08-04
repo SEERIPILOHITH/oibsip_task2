@@ -1,0 +1,36 @@
+body{
+    margin-right: 200px;
+    background-color: black;
+    color: aliceblue;
+
+}
+.totaltext{
+    text-align: center;
+}
+.heading2{
+    text-align: left;
+    color: gold;
+    font-size: xx-large;
+    font-family: cursive;
+}
+.text{
+    margin-left: 30px;
+    font-style: oblique;
+    font-size: larger;
+    width: 80%;
+}
+*{
+    margin-left: 30px;
+}
+.text1{
+    margin-left: 380px;
+    text-align: right;
+    font-style: oblique;
+    gap: unset;
+}
+figcaption{
+    margin-left: 350px;
+    font-family: cursive;
+    font-size: medium;
+    color: bisque;
+}
